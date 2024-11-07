@@ -1,6 +1,4 @@
 # DataScribe
-Here's a comprehensive GitHub README for your "DataScribe" project, covering all necessary aspects like setup, usage, and features.
-
 ---
 
 # DataScribe
