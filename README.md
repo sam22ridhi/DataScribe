@@ -1,8 +1,6 @@
 # DataScribe
 ---
 
-# DataScribe
-
 ## Project Description
 **DataScribe** is an AI-powered data retrieval tool that extracts targeted information from the web for entities listed in user-uploaded datasets. Users can upload a CSV or connect a Google Sheet, specify a search query template, and let DataScribe find and parse relevant information using a Language Model (LLM). With a simple, user-friendly interface, DataScribe is ideal for anyone needing to collect structured information about multiple entities efficiently.
 
