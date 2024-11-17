@@ -125,14 +125,23 @@ DataScribe/
 
 ## 🌟 **Screenshots**  
 
-### **Home Page**  
-![Home Page](assets/screenshots/home_page.png)  
+#### **Home Page**  
+![Home Page](screenshots/home.png)
 
-### **Query Definition**  
-![Define Query](assets/screenshots/define_query.png)  
+#### **File Upload**  
+![File Upload](screenshots/upload_data.png)
 
-### **Extracted Data**  
-![Extracted Results](assets/screenshots/extracted_data.png)  
+#### **Define Query**  
+![Define Query](screenshots/define_query.png)
+
+#### **Extracted Data**  
+![Extracted Data](screenshots/extractinfo.png)
+
+#### **Running the Application**  
+![Running the App](screenshots/running.png)
+
+#### **View & Download Results**  
+![View & Download](screenshots/viewdown.png) 
 
 ---
 
@@ -174,4 +183,3 @@ For feedback or support:
 
 ---  
 
-Let me know if you'd like additional refinements or specific updates!
