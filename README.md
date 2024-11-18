@@ -147,12 +147,11 @@ DataScribe/
 
 ## 📝 **Loom Video Walkthrough**  
 
-Watch the [2-minute walkthrough](#) showcasing:  
+Watch the [2-minute walkthrough](https://www.loom.com/share/2da6b8a8929b46698b4c61aa57d3b461?sid=ef63cba4-37db-468d-86f1-e52ee08d7e0c) showcasing:  
 1. Overview of DataScribe's purpose and features.  
 2. Key workflows, including upload, extraction, and export.  
-3. Challenges tackled during development.  
+3. Code features
 
----
 
 ## 🙌 **Acknowledgements**  
 
