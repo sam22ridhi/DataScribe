@@ -139,9 +139,12 @@ DataScribe/
 
 #### **Running the Application**  
 ![Running the App](screenshots/running.png)
+![Running the App](screenshots/ans.png)
+![Running the App](screenshots/ans2.png)
 
 #### **View & Download Results**  
 ![View & Download](screenshots/viewdown.png) 
+
 
 ---
 
@@ -151,6 +154,10 @@ Watch the [2-minute walkthrough](https://www.loom.com/share/2da6b8a8929b46698b4c
 1. Overview of DataScribe's purpose and features.  
 2. Key workflows, including upload, extraction, and export.  
 3. Code features
+
+## 📝 **Hugging Face Tryout**  
+
+Try out on [huggin face link](https://huggingface.co/spaces/samiee2213/DataScribe) 
 
 
 ## 🙌 **Acknowledgements**  
